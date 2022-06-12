@@ -1,7 +1,7 @@
 provider "aws" {                        #aws "laptop backup account key"
   region     = "ap-northeast-3"
-  access_key = "AKIA5RXZMCSEPS4CLC4E"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
 
 
